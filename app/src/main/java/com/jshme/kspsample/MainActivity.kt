@@ -26,9 +26,6 @@ class MainActivity : AppCompatActivity() {
         webView = findViewById<WebView>(R.id.webView)
         webView2 = findViewById<WebView>(R.id.webView2)
 
-        webView.settings.apply {
-
-        }
         WebViewLoader.onInitialize(this)
     }
 }

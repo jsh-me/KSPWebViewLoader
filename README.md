@@ -1,6 +1,8 @@
-## webview-kotlin-symbol-processor 🚧
+## KSPWebViewLoader 🚧
 
-### How to use
+`@WebViewBuilder` Annotation can be automating your webview settings. (WIP)
+
+## How to use
 
 ```kotlin
 @WebViewBuilder(
