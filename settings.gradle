@@ -1,0 +1,3 @@
+rootProject.name = "kspsample"
+include(":app")
+include(":ksp")
